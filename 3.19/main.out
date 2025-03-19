@@ -1,0 +1,11 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Headings:\040first\040level}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Headings:\040second\040level}{section.2}% 3
+\BOOKMARK [3][-]{subsubsection.2.1.1}{Headings:\040third\040level}{subsection.2.1}% 4
+\BOOKMARK [1][-]{section.3}{Citations,\040figures,\040tables,\040references}{}% 5
+\BOOKMARK [2][-]{subsection.3.1}{Citations\040within\040the\040text}{section.3}% 6
+\BOOKMARK [2][-]{subsection.3.2}{Footnotes}{section.3}% 7
+\BOOKMARK [2][-]{subsection.3.3}{Figures}{section.3}% 8
+\BOOKMARK [2][-]{subsection.3.4}{Tables}{section.3}% 9
+\BOOKMARK [2][-]{subsection.3.5}{Cross\040references}{section.3}% 10
+\BOOKMARK [1][-]{appendix.A}{Appendix}{}% 11
